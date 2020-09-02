@@ -7,3 +7,5 @@ One of essential parts of this project is how to classify consideres classes and
 
 The dataset is classified by EfficientNet-B0 and some fully connected layers in order to separate considered hand poses. Python code for classification is in [dataset classification](https://github.com/Youlenda/Mouse/blob/master/dataset_classification.ipynb). Accuracy of test set is 100% because distribution of 
 validation set is simpler than training set.
+
+One of classification problem is unwanted classes that apears in
