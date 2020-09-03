@@ -3,11 +3,15 @@ Controlling Computer Mouse Using Hand Recognition
 
 
 <p align="left">
-  <img width="320" height="180" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
-  <img width="640" height="360" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
 </p>
 
 
+<p align="left">
+  <img width="640" height="360" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20right-click.gif">
+  <img width="640" height="360" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
+</p>
 
 ## Classification part
 One of the essential parts of this project is how to classify considered classes and remove other classes. For the classification part which is based on a close dataset with no others, a model is trained by [6270HandImages](https://github.com/Youlenda/6720HandImages) dataset. The dataset has 5120 training and 1600 validation samples with different distribution and the validation set is more likely to real-time data. In addition, the 50% of validation set is allocated to test data. Therefore, the number of images in training, validation and test set are 5120, 800 and 800 images.
