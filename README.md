@@ -5,14 +5,14 @@ Controlling Computer Mouse Using Hand Recognition
 
 
 <p align="left">
-  <img width="480" height="270" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
-  <img width="480" height="270" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
 </p>
 
 
 <p align="left">
-  <img width="480" height="270" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20right-click.gif">
-  <img width="480" height="270" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20right-click.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
 </p>
 
 ## Classification part
