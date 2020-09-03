@@ -1,6 +1,10 @@
 # Mouse
 Controlling Computer Mouse Using Hand Recognition
 
+[![Watch the video](https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking.mp4)](https://youtu.be/vt5fpE0bzSY)
+
+
+
 
 ## Classification part
 One of the essential parts of this project is how to classify considered classes and remove other classes. For the classification part which is based on a close dataset with no others, a model is trained by [6270HandImages](https://github.com/Youlenda/6720HandImages) dataset. The dataset has 5120 training and 1600 validation samples with different distribution and the validation set is more likely to real-time data. In addition, the 50% of validation set is allocated to test data. Therefore, the number of images in training, validation and test set are 5120, 800 and 800 images.
