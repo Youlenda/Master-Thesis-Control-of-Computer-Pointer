@@ -1,6 +1,8 @@
 # Mouse
 Controlling Computer Mouse Using Hand Recognition
 
+**Please zoom in the screen for more details.**
+
 
 <p align="left">
   <img width="480" height="270" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
