@@ -1,8 +1,11 @@
 # Mouse
 Controlling Computer Mouse Using Hand Recognition
 
-![alt-text](https://github.com/Youlenda/Mouse/blob/master/videos/2020-09-03%2011.25.57.gif)
 
+
+<p align="left">
+  <img width="400" height="400" src="https://github.com/Youlenda/Mouse/blob/master/videos/2020-09-03%2011.25.57.gif">
+</p>
 
 
 ## Classification part
