@@ -1,10 +1,10 @@
 # Mouse
 Controlling Computer Mouse Using Hand Recognition
 
-
+1920, 1080
 
 <p align="left">
-  <img width="400" height="400" src="https://github.com/Youlenda/Mouse/blob/master/videos/2020-09-03%2011.25.57.gif">
+  <img width="960" height="540" src="https://github.com/Youlenda/Mouse/blob/master/videos/2020-09-03%2011.25.57.gif">
 </p>
 
 
