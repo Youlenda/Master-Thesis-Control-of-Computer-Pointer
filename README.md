@@ -1,8 +1,7 @@
 # Mouse
 Controlling Computer Mouse Using Hand Recognition
 
-[![Watch the video](https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking.mp4)](https://youtu.be/vt5fpE0bzSY)
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 
 
