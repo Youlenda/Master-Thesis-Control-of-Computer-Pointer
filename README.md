@@ -18,7 +18,7 @@ Control of Computer Pointer Using Hand Movement Detection in Motion Pictures.
 
 
 
-**Abstract**
+## Abstract
 
 Humans have dreamed about picking things up from a long time ago by pointing to them with a single hand gesture. Up to now, no one could move objects without having direct touch, though artificial intelligence allows individuals to control the intelligent system by using hand gestures in front of a camera and without a single contact. 
 
