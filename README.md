@@ -2,7 +2,10 @@
 
 Control of Computer Pointer Using Hand Movement Detection in Motion Pictures.
 
-**Please zoom in the screen for more details.**
+<p align="center">
+    // Please zoom in the screen for more details.
+</p>
+
 
 
 <p align="left">
