@@ -31,10 +31,10 @@ Eventually, the predicted label converts to a command for controlling the comput
 **keywords**: Hand Gesture Recognition, Dataset, Convolutional Neural Network, Classification, Computer Pointer, and Object Detection
 
 
-## Classification part
+## Classification Part
 Like any other image classification task, this project should deal with how to classify a sample to one of the defined classes or ignore that if it belongs to an undefined one. For the classification part, which is based on a close dataset as opposed to having all the possible classes, a model is trained by [6720HandDatase](https://github.com/Youlenda/6720HandDataset), having a limited number of samples as well as classes. The dataset has 5120 training and 1600 validation samples (800 for validation, 800 for test). Although it is common to split training and validation sets randomly, in this project, they have different distribution to boost the generalization power since validation samples are more likely to in real-time frames. The dataset is classified by [EfficientNet-B0](https://arxiv.org/abs/1905.11946) and some fully-connected layers in order to distinguish between defined hand gestures. The model reaches 99 per cent accuracy due to the simpler distribution of the validation set rather than the training set. Python code for classification is in [here](https://github.com/Youlenda/Mouse/blob/master/classification/dataset_classification.ipynb).
 
-## Similarity part
+## Similarity Part
 One of classification problems is samples from unwanted classes that appear in real-time. Because of softmax activation function, each sample (from considered classes or not) will map to one of the last layer neurons. In this tutorial, we present a similarity neural network to compare new samples with dataset in order to remove unwanted classes.
 
 The last layer of [EfficientNet-B0](https://arxiv.org/abs/1905.11946) has 1280 neurons and after training the model in the classification part, we remove fully-connected layers and provide a new model as a feature extractor; Samples of the validation set are imported to the feature extractor model. Then the average of encoded samples of each class calculate to create 4 reference vectors. In order to have 4 thresholds (for each class), we compare each encoded sample with its reference vector. Python code for classification is in [similarity neural network](https://github.com/Youlenda/Mouse/blob/master/classification/similarity_nn.ipynb)
