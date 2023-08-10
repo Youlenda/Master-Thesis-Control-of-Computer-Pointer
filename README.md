@@ -7,7 +7,6 @@ Control of Computer Pointer Using Hand Movement Detection in Motion Pictures.
 </p>
 
 
-
 <p align="left">
   <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
   <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
